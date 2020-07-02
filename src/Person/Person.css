@@ -1,0 +1,7 @@
+.person{
+    box-shadow: 3px 3px;
+    border: 1px solid;
+    margin: 10%;
+    padding:30px;
+    background-color:lightpink;
+}
